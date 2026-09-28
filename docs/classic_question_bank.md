@@ -1,6 +1,6 @@
 # 经典专题题库（30+ 专题 · 数百考点）
 
-> 本页属于开源项目《[大模型面试宝典](../README.md)》，返回 [项目主页](../README.md) 查看全部模块导航。
+> 本页属于开源项目《[大模型面试宝典]》，返回 [项目主页] 查看全部模块导航。
 
 覆盖大模型基础/架构、微调、分布式训练、推理加速、KV Cache、MoE、多模态等经典方向。
 
@@ -50,7 +50,7 @@
 ---
 ## 一、大模型（LLMs）基础面 
 
-### [大模型（LLMs）基础面](../README.md) 
+### [大模型（LLMs）基础面] 
 
 - 1 目前 主流的开源模型体系 有哪些？
 - 2 prefix Decoder 和 causal Decoder 和 Encoder-Decoder 区别是什么？
@@ -67,7 +67,7 @@
 
 - [点击查看答案](../1_LLMs_base_trick/readme.md)
 
-### [Layer normalization 篇](../README.md)
+### [Layer normalization 篇]
 
 - Layer normalization-方法篇
   - Layer Norm 篇
@@ -86,7 +86,7 @@
 
 - [点击查看答案](../1_LLMs_base_trick/readme.md)
 
-### [LLMs 激活函数篇](../README.md) 
+### [LLMs 激活函数篇] 
 
 - 1 介绍一下 FFN 块 计算公式？
 - 2 介绍一下 GeLU 计算公式？
@@ -99,9 +99,9 @@
 
 - [点击查看答案](../1_LLMs_base_trick/readme.md)
 
-### [Attention 升级面](../README.md) 
+### [Attention 升级面] 
 
-- [Attention 升级面](../README.md) 
+- [Attention 升级面] 
   - 1 传统 Attention 存在哪些问题？
   - 2 Attention 有哪些 优化方向？
   - 3 Attention 变体有哪些？
@@ -129,7 +129,7 @@
 
 - [点击查看答案](../1_LLMs_base_trick/readme.md)
 
-- [跨注意力机制（Cross-Attention）篇](../README.md) 
+- [跨注意力机制（Cross-Attention）篇] 
   - 一、为什么需要 跨注意力机制（Cross-Attention）？
   - 二、介绍一些 跨注意力机制（Cross-Attention）？
   - 三、Cross Attention 和 Self Attention 篇
@@ -143,7 +143,7 @@
 
 - [点击查看答案](../1_LLMs_base_trick/readme.md)
 
-### [transformers 操作篇](../README.md) 
+### [transformers 操作篇] 
 
 - 1. 如何 利用 transformers 加载 Bert 模型？
 - 2. 如何 利用 transformers 输出 Bert 指定 hidden\_state？
@@ -151,7 +151,7 @@
 
 - [点击查看答案](../1_LLMs_base_trick/readme.md)
 
-### [LLMs 损失函数篇](../README.md) 
+### [LLMs 损失函数篇] 
 
 - 一、介绍一下 KL 散度？
 - 二、交叉熵损失函数写一下，物理意义是什么？
@@ -165,7 +165,7 @@
 
 - [点击查看答案](../1_LLMs_base_trick/readme.md)
 
-### [相似度函数篇](../README.md) 
+### [相似度函数篇] 
 
 - 一、除了cosin还有哪些算相似度的方法
 - 二、了解对比学习嘛？
@@ -174,7 +174,7 @@
 - [点击查看答案](../1_LLMs_base_trick/readme.md)
 
 
-## [二、大模型（LLMs）进阶面](../README.md) 
+## [二、大模型（LLMs）进阶面] 
 
 - 一、什么是生成式大模型？
 - 二、大模型是怎么让生成的文本丰富而不单调的呢？
@@ -193,7 +193,7 @@
 
 ## 三、大模型（LLMs）微调面
 
-### [大模型（LLMs）微调面](../README.md) 
+### [大模型（LLMs）微调面] 
 
 - 39 大模型 sft 过程中，为什么会出现第二个epoch的时候loss会突然下降问题？
 - 1 如果想要在某个模型基础上做全参数微调，究竟需要多少显存？
@@ -247,7 +247,7 @@
 
 - [点击查看答案](../3_LLMs_finetuning_trick/readme.md)
 
-### [大模型 SFT Trick 篇](../README.md)
+### [大模型 SFT Trick 篇]
 
 - 一、常见 SFT的开发流程是如何的？
 - 二、训练数据要注重什么？
@@ -274,7 +274,7 @@
 
 - [点击查看答案](../3_LLMs_finetuning_trick/readme.md)
 
-### [大模型（LLMs）训练经验帖](../README.md)
+### [大模型（LLMs）训练经验帖]
 
 - 分布式训练框架选择？
 - LLMs 训练时 有哪些有用的建议？
@@ -286,7 +286,7 @@
 
 ## 四、大模型（LLMs）langchain 面
 
-### [大模型（LLMs）langchain 面](../README.md) 
+### [大模型（LLMs）langchain 面] 
 
 - 一、什么是 LangChain?
 - 二、LangChain 包含哪些 核心概念？
@@ -317,7 +317,7 @@
 
 - [点击查看答案](../4_langchain_trick/readme.md)
 
-### [多轮对话中让AI保持长期记忆的8种优化方式篇](../README.md) 
+### [多轮对话中让AI保持长期记忆的8种优化方式篇] 
 
 - 一、前言
 - 二、Agent 如何获取上下文对话信息？
@@ -332,7 +332,7 @@
 
 - [点击查看答案](../4_langchain_trick/readme.md)
 
-### [基于langchain RAG问答应用实战](../README.md) 
+### [基于langchain RAG问答应用实战] 
 
 - [点击查看答案](../4_langchain_trick/readme.md)
 
@@ -341,7 +341,7 @@
 
 ### 5.1 大模型（LLMs）RAG 入门篇
 
-#### [基于LLM+向量库的文档对话 经验面](../README.md)
+#### [基于LLM+向量库的文档对话 经验面]
 
 - 一、基于LLM+向量库的文档对话 基础面
   - 1.1 为什么 大模型 需要 外挂(向量)知识库？
@@ -353,7 +353,7 @@
 
 - [点击查看答案](../5_LLMs_RAG/readme.md)
 
-#### [RAG（Retrieval-Augmented Generation）面](../README.md) 
+#### [RAG（Retrieval-Augmented Generation）面] 
 
 - 一、LLMs 已经具备了较强能力了，存在哪些不足点?
 - 二、什么是 RAG?
@@ -378,7 +378,7 @@
 
 #### 5.2 大模型（LLMs）RAG 版面分析篇
 
-### [大模型（LLMs）RAG —— pdf解析关键问题](../README.md)
+### [大模型（LLMs）RAG —— pdf解析关键问题]
 
 - 一、为什么需要进行pdf解析？
 - 二、为什么需要 对 pdf 进行解析？
@@ -393,7 +393,7 @@
 
 - [点击查看答案](../5_LLMs_RAG/readme.md)
 
-### [大模型（LLMs）RAG 版面分析——表格识别方法篇](../README.md)
+### [大模型（LLMs）RAG 版面分析——表格识别方法篇]
 
 - 一、为什么需要识别表格？
 - 二、介绍一下 表格识别 任务？
@@ -412,7 +412,7 @@
 
 - [点击查看答案](../5_LLMs_RAG/readme.md)
 
-### [大模型（LLMs）RAG 版面分析——文本分块面](../README.md)
+### [大模型（LLMs）RAG 版面分析——文本分块面]
 
 - 一、为什么需要对文本分块？
 - 二、能不能介绍一下常见的文本分块方法？
@@ -430,7 +430,7 @@
 
 ### 5.3 大模型（LLMs）RAG 检索策略篇
 
-#### [大模型外挂知识库优化——如何利用大模型辅助召回？](../README.md)
+#### [大模型外挂知识库优化——如何利用大模型辅助召回？]
 
 - 一、为什么需要使用大模型辅助召回？
   - 策略一： HYDE
@@ -442,7 +442,7 @@
 
 - [点击查看答案](../5_LLMs_RAG/readme.md)
 
-#### [大模型外挂知识库优化——负样本样本挖掘篇](../README.md)
+#### [大模型外挂知识库优化——负样本样本挖掘篇]
 
 - 一、为什么需要构建负难样本？
 - 二、负难样本构建方法篇
@@ -460,7 +460,7 @@
 
 ### 5.4 大模型（LLMs）RAG 评测篇
 
-#### [RAG（Retrieval-Augmented Generation）评测面](../README.md)
+#### [RAG（Retrieval-Augmented Generation）评测面]
 
 - 一、为什么需要 对 RAG 进行评测？
 - 二、RAG 有哪些评估方法？
@@ -471,7 +471,7 @@
 
 ### 5.5 大模型（LLMs）RAG 优化策略篇
 
-#### [检索增强生成(RAG) 优化策略篇](../README.md)
+#### [检索增强生成(RAG) 优化策略篇]
 
 - 一、RAG基础功能篇
   - 1.1 RAG 工作流程
@@ -517,7 +517,7 @@
 
 - [点击查看答案](../5_LLMs_RAG/readme.md)
 
-#### [RAG 关键痛点及对应解决方案](../README.md)
+#### [RAG 关键痛点及对应解决方案]
 
 - 前言
 - 问题一：内容缺失问题
@@ -559,7 +559,7 @@
 
 - [点击查看答案](../5_LLMs_RAG/readme.md)
 
-#### [大模型（LLMs）RAG 优化策略 —— RAG-Fusion篇](../README.md)
+#### [大模型（LLMs）RAG 优化策略 —— RAG-Fusion篇]
 
 - 一、RAG 有哪些优点？
 - 二、RAG 存在哪些局限性？
@@ -582,7 +582,7 @@
 
 ### 5.6 大模型（LLMs）Graph RAG篇
 
-#### [Graph RAG（Retrieval-Augmented Generation） 面 —— 一种 基于知识图谱的大模型检索增强实现策略](../README.md)
+#### [Graph RAG（Retrieval-Augmented Generation） 面 —— 一种 基于知识图谱的大模型检索增强实现策略]
 
 - 一、为什么需要 Graph RAG？
 - 二、什么是 Graph RAG？
@@ -596,7 +596,7 @@
 
 ## 六、大模型（LLMs）参数高效微调(PEFT) 面
 
-### [大模型（LLMs）参数高效微调(PEFT) 面](../README.md)
+### [大模型（LLMs）参数高效微调(PEFT) 面]
 
 - 1. 微调方法是啥？如何微调？
 - 2. 为什么需要 PEFT？
@@ -612,7 +612,7 @@
 
 - [点击查看答案](../6_peft_trick/readme.md)
 
-### [配器微调（Adapter-tuning）篇](../README.md)
+### [配器微调（Adapter-tuning）篇]
 
 - 一、为什么 需要 适配器微调（Adapter-tuning）？
 - 二、适配器微调（Adapter-tuning）思路？
@@ -625,7 +625,7 @@
 
 - [点击查看答案](../6_peft_trick/readme.md)
 
-### [提示学习（Prompting）](../README.md)
+### [提示学习（Prompting）]
 
 - 一、为什么需要 提示学习（Prompting）？
 - 二、什么是 提示学习（Prompting）？
@@ -656,7 +656,7 @@
 
 - [点击查看答案](../6_peft_trick/readme.md)
 
-### [LoRA 系列篇](../README.md) 
+### [LoRA 系列篇] 
 
 一、LoRA篇
     - 1.1 什么是 LoRA？
@@ -699,7 +699,7 @@
 
 - [点击查看答案](../6_peft_trick/readme.md)
 
-### [如何使用 PEFT库 中 LoRA？](../README.md) 
+### [如何使用 PEFT库 中 LoRA？] 
 
 - 一、前言
 - 二、如何 配置 LoraConfig？
@@ -722,7 +722,7 @@
 
 - [点击查看答案](../6_peft_trick/readme.md)
 
-### [大模型 SFT 方式对比篇](../README.md) 
+### [大模型 SFT 方式对比篇] 
 
 - 一、SFT 微调方案如何选择？
 - 二、Full Fine Tuning vs Parameter-Efficient Fine-Tuning
@@ -764,7 +764,7 @@
 
 ## 七、大模型（LLMs）推理面 
 
-### [大模型（LLMs）推理面](../README.md)
+### [大模型（LLMs）推理面]
 
 - 1. 为什么大模型推理时显存涨的那么多还一直占着？
 - 2. 大模型在gpu和cpu上推理速度如何？
@@ -781,7 +781,7 @@
 
 ## 八、大模型（LLMs）增量预训练篇 
 
-### [从0到1：揭秘LLM预训练前的海量数据清洗全流程](../README.md) :fire:
+### [从0到1：揭秘LLM预训练前的海量数据清洗全流程] :fire:
 
 - 从0到1：揭秘LLM预训练前的海量数据清洗全流程
   - 前言
@@ -798,7 +798,7 @@
   - 终点站：高质量分类器 —— 用AI为内容“画龙点睛”
   - 结论：数据决定上限，模型决定逼近上限的程度
 
-### [大模型（LLMs）增量预训练篇](../README.md)
+### [大模型（LLMs）增量预训练篇]
 
 1. 为什么要增量预训练？
 2. 进行 增量预训练 需要做哪些准备工作？
@@ -814,7 +814,7 @@
 
 - [点击查看答案](../8_LLMs_pretrain/)
 
-### [增量预训练（Pretrain）样本拼接篇](../README.md)
+### [增量预训练（Pretrain）样本拼接篇]
 
 - 一、 推理过程 分哪些阶段？
   - 1.1 Prefill（输入理解与初始化）阶段
@@ -852,7 +852,7 @@
 
 - [点击查看答案](../8_LLMs_pretrain/)
 
-### [增量预训练（Pretrain）样本拼接篇](../README.md)
+### [增量预训练（Pretrain）样本拼接篇]
 
 - 一、Pretrain阶段，为什么需要拼接拼接？
 - 二、有哪些 拼接方式？
@@ -863,7 +863,7 @@
 
 - [点击查看答案](../8_LLMs_pretrain/)
 
-### [基于lora的llama2二次预训练](../README.md)
+### [基于lora的llama2二次预训练]
 
 - 一、为什么需要 对 llama2 做 基于lora的二次预训练?
 - 二、基于lora的llama2二次预训练 的目标是什么？
@@ -881,7 +881,7 @@
 - [点击查看答案](../8_LLMs_pretrain/)
 
 
-## [九、大模型（LLMs）评测面](../README.md)
+## [九、大模型（LLMs）评测面]
 
 - 1 大模型怎么评测？
 - 2 大模型的honest原则是如何实现的？模型如何判断回答的知识是训练过的已知的知识，怎么训练这种能力？
@@ -897,7 +897,7 @@
 
 ## 十、大模型（LLMs）强化学习面 
 
-### [大模型（LLMs）强化学习面](../README.md) 
+### [大模型（LLMs）强化学习面] 
 
 - 1 简单介绍强化学习？
 - 2 简单介绍一下 RLHF？
@@ -923,7 +923,7 @@
 
 - [点击查看答案](../10_LLMs_reinforcement_trick/readme.md)
 
-### [大模型（LLMs）强化学习——RLHF及其变种面](../README.md) 
+### [大模型（LLMs）强化学习——RLHF及其变种面] 
 
 - 一、介绍一下 LLM的经典预训练Pipeline？
 - 二、预训练（Pre-training）篇
@@ -953,7 +953,7 @@
 
 - [点击查看答案](../10_LLMs_reinforcement_trick/readme.md)
 
-### [大模型（LLMs）强化学习—— PPO 面](../README.md) 
+### [大模型（LLMs）强化学习—— PPO 面] 
 
   - 一、大语言模型RLHF中的PPO主要分哪些步骤？
   - 二、举例描述一下 大语言模型的RLHF？
@@ -971,7 +971,7 @@
 
 - [点击查看答案](../10_LLMs_reinforcement_trick/readme.md)
 
-### [RLHF平替算法DPO篇](../README.md) 
+### [RLHF平替算法DPO篇] 
 
 - RLHF平替算法DPO篇
   - 一、DPO vs RLHF？
@@ -994,7 +994,7 @@
 
 - [点击查看答案](../10_LLMs_reinforcement_trick/readme.md)
 
-### [reward 篇](../README.md) 
+### [reward 篇] 
 
   - 1 介绍一下 RM模型？
   - 2 为什么需要 RM模型？
@@ -1013,7 +1013,7 @@
 
 - [点击查看答案](../10_LLMs_reinforcement_trick/readme.md)
 
-### [强化学习在自然语言处理下的应用篇](../README.md) 
+### [强化学习在自然语言处理下的应用篇] 
 
 - 一、强化学习基础面
   - 1.1 介绍一下强化学习？
@@ -1033,7 +1033,7 @@
 
 ## 十一、大模型（LLMs）训练集面 
 
-### [大模型（LLMs）训练集面](../README.md)
+### [大模型（LLMs）训练集面]
 
 1. SFT（有监督微调）的数据集格式？
 2. RM（奖励模型）的数据格式？
@@ -1046,7 +1046,7 @@
 
 - [点击查看答案](../11_LLMs_datasets_trick/readme.md)
 
-### [大模型（LLMs）LLM生成SFT数据方法面](../README.md)
+### [大模型（LLMs）LLM生成SFT数据方法面]
 
 - 四、大模型微调数据集格式篇
 - 一、SFT数据集如何生成？
@@ -1061,7 +1061,7 @@
 
 ## 十二、大模型（LLMs）显存问题面 
 
-### [大模型（LLMs）显存问题面](../README.md)
+### [大模型（LLMs）显存问题面]
 
 1. 大模型大概有多大，模型文件有多大?
 2. 能否用4 * v100 32G训练vicuna 65b？
@@ -1082,7 +1082,7 @@
 
 - [点击查看答案](../12_LLMs_VRAM_trick/readme.md)
 
-### [大模型（LLMs）显存优化策略篇](../README.md)
+### [大模型（LLMs）显存优化策略篇]
 
 - 一、介绍一下 gradient accumulation 显存优化方式？
 - 二、介绍一下 gradient checkpointing 显存优化方式？
@@ -1092,7 +1092,7 @@
 
 ## 十三、大模型（LLMs）分布式训练面 
 
-### [大模型（LLMs）分布式训练面](../README.md)
+### [大模型（LLMs）分布式训练面]
 
 - 1. 理论篇
   - 1.1 训练 大语言模型 存在问题？
@@ -1136,7 +1136,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [图解分布式训练（一） —— 流水线并行（Pipeline Parallelism）面](../README.md)
+### [图解分布式训练（一） —— 流水线并行（Pipeline Parallelism）面]
 
 - 为什么需要流水线并行（Pipeline Parallelism）？
 - 一、流水线并行（Pipeline Parallelism） 优化目标是什么？
@@ -1146,7 +1146,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [图解分布式训练（二） —— nn.DataParallel面](../README.md)
+### [图解分布式训练（二） —— nn.DataParallel面]
 
 - 为什么需要nn.DataParallel？
 - 一、pytorch中的GPU操作默认是什么样？
@@ -1165,7 +1165,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [图解分布式训练（三） ——  nn.parallel.DistributedDataParallel](../README.md)
+### [图解分布式训练（三） ——  nn.parallel.DistributedDataParallel]
 
 - 为什么需要 nn.parallel.DistributedDataParallel ？
 - 一、什么是 DistributedDataParallel 核心 —— Ring-AllReduce？
@@ -1179,7 +1179,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [图解分布式训练（四） ——  torch.multiprocessing 详细解析](../README.md)
+### [图解分布式训练（四） ——  torch.multiprocessing 详细解析]
 
 - 一、torch.multiprocessing 函数介绍一下？
 - 二、torch.multiprocessing 函数如何使用？
@@ -1189,7 +1189,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [图解分布式训练（五） ——  AMP混合精度训练 详细解析](../README.md)
+### [图解分布式训练（五） ——  AMP混合精度训练 详细解析]
 
 - 为什么需要 AMP混合精度训练？
 - 一、什么是自动混合精度训练(AMP)
@@ -1203,7 +1203,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [图解分布式训练（六） —— Pytorch的 DeepSpeed 详细解析](../README.md)
+### [图解分布式训练（六） —— Pytorch的 DeepSpeed 详细解析]
 
 - 一、为什么需要 Deepspeed？
 - 二、DeepSpeed 基本概念 介绍一下？
@@ -1241,7 +1241,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [图解分布式训练（七）—— accelerate 分布式训练 详细解析](../README.md)
+### [图解分布式训练（七）—— accelerate 分布式训练 详细解析]
 
 - 一、为什么需要 accelerate 分布式训练？
 - 二、什么是 accelerate 分布式训练?
@@ -1250,7 +1250,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [图解分布式训练（八）—— ZeRO 学习](../README.md)
+### [图解分布式训练（八）—— ZeRO 学习]
 
 - 一、什么是 3D 并行？
 - 二、3D 并行 策略有哪些？
@@ -1262,7 +1262,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [大模型分布式训练故障恢复篇](../README.md)
+### [大模型分布式训练故障恢复篇]
 
 - 一、为什么 大模型分布式训练 需要 故障恢复？
 - 二、如何获取最优的ckpt存储间隔？
@@ -1271,7 +1271,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [图解分布式训练（九）—— Megatron-LM 篇](../README.md)
+### [图解分布式训练（九）—— Megatron-LM 篇]
 
 - 1、Activation Recomputation是怎么实现的?
 - 2、Megatron中的OverlappedDistributed Optimizer 是如何实现的?
@@ -1284,7 +1284,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [分布式训练 Trick 汇总篇](../README.md)
+### [分布式训练 Trick 汇总篇]
 
 - 一、数据并行 Trick 篇
   - 1.1 数据并行 FSDP
@@ -1302,7 +1302,7 @@
 
 - [点击查看答案](../13_LLMs_distributed_training_trick/readme.md)
 
-### [pytorch 分布式计算 坑/bug 梳理篇](../README.md)
+### [pytorch 分布式计算 坑/bug 梳理篇]
 
 - 一、使用 DistributedDataParallel（分布式并行）时，显存分布不均衡问题
 - 二、如果是用pytorch实现同步梯度更新，自研 数据接口，出现 第一个epoch结尾处程序卡死问题
@@ -1313,7 +1313,7 @@
 
 ## 十四、大模型（LLMs）agent 面 :fire:
 
-### [大模型（LLMs）agent 面](../README.md) 
+### [大模型（LLMs）agent 面] 
 
 - 一、什么是 大模型（LLMs）agent？
 - 二、大模型（LLMs）agent 有哪些部分组成？
@@ -1340,7 +1340,7 @@
 
 ### 函数调用 Function Call 篇
 
-- [函数调用 Function Call 篇](../README.md)
+- [函数调用 Function Call 篇]
   - 一、为什么需要 函数调用(function call)？
   - 二、什么是 函数调用(function call)？
   - 三、函数调用(function-call)目的是什么？
@@ -1350,7 +1350,7 @@
 
 - [点击查看答案](../14_LLMs_agent_trick/readme.md)
 
-- [开源模型 Function Call 篇](../README.md)
+- [开源模型 Function Call 篇]
   - 开源模型 Function Call 方案有哪些？
     - Llama 3.1
       - 对话协议（Chat Protocal）
@@ -1376,7 +1376,7 @@
   
 
 
-## [十五、LLMs 位置编码篇](../README.md) 
+## [十五、LLMs 位置编码篇] 
 
 - 一、什么是位置编码？
 - 二、为什么需要位置编码？
@@ -1409,7 +1409,7 @@
 
 ## 十六、LLMs Tokenizer 篇
 
-### [LLMs Tokenizer 篇](../README.md)
+### [LLMs Tokenizer 篇]
 
 - LLMs Tokenizer 篇
   - Byte-Pair Encoding(BPE)篇
@@ -1455,7 +1455,7 @@
 
 - [点击查看答案](../16_LLMs_tokenizer/readme.md)
 
-### [怎么让英文大语言模型支持中文？（一） —— 构建中文tokenization](../README.md)
+### [怎么让英文大语言模型支持中文？（一） —— 构建中文tokenization]
 
 - 一、为什么需要 构建中文tokenization？
 - 二、如何对 原始数据预处理？
@@ -1467,7 +1467,7 @@
 
 - [点击查看答案](../16_LLMs_tokenizer/readme.md)
 
-### [怎么让英文大语言模型支持中文？（二） —— 继续预训练篇](../README.md)
+### [怎么让英文大语言模型支持中文？（二） —— 继续预训练篇]
 
 - 一、为什么需要进行继续预训练？
 - 二、如何对 继续预训练 数据预处理？
@@ -1476,7 +1476,7 @@
 
 - [点击查看答案](../16_LLMs_tokenizer/readme.md)
 
-### [怎么让英文大语言模型支持中文？（三） —— 对预训练模型进行指令微调](../README.md)
+### [怎么让英文大语言模型支持中文？（三） —— 对预训练模型进行指令微调]
 
 - 一、为什么需要对预训练模型进行指令微调？
 - 二、对预训练模型进行指令微调 数据 如何处理？
@@ -1489,7 +1489,7 @@
 
 ## 十七、大模型（LLMs）加速篇  :fire:
 
-### [beam search及其变种](../README.md)
+### [beam search及其变种]
 
 - beam search及其变种
   - 前言
@@ -1508,7 +1508,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [Continuous Batching 与 Selective Batching 实现](../README.md)
+### [Continuous Batching 与 Selective Batching 实现]
 
 - Continuous Batching 与 Selective Batching 实现
   - 一、前言
@@ -1527,7 +1527,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [大模型(LLM)部署框架对比篇](../README.md)
+### [大模型(LLM)部署框架对比篇]
 
 - 大模型(LLM)部署框架对比篇
 - 一、为什么需要对大模型推理加速？
@@ -1553,7 +1553,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [大模型（LLMs）推理加速篇](../README.md)
+### [大模型（LLMs）推理加速篇]
 
 - 一、 推理过程 分哪些阶段？
     - 1.1 Prefill（输入理解与初始化）阶段
@@ -1592,7 +1592,7 @@
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
 
-### [大模型（LLMs）加速篇](../README.md)
+### [大模型（LLMs）加速篇]
 
 - 1. 当前优化模型最主要技术手段有哪些？
 - 2. 推理加速框架有哪一些？都有什么特点？
@@ -1611,7 +1611,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [LLMs 推理性能面](../README.md) 
+### [LLMs 推理性能面] 
 
 - 一、介绍一下 LLMs 的文本生成过程？
 - 二、如何准确衡量模型的推理速度呢？
@@ -1620,7 +1620,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [LLM（大语言模型）部署加速方法——PagedAttention篇](../README.md)
+### [LLM（大语言模型）部署加速方法——PagedAttention篇]
 
 - 一、vLLM 用于大模型并行推理加速 存在什么问题？
 - 二、vLLM 如何 优化 大模型并行推理加速？
@@ -1632,7 +1632,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [大模型推理加速工具 —— vLLM](../README.md)
+### [大模型推理加速工具 —— vLLM]
 
 - 一、引言
   - 1.1 前言
@@ -1647,7 +1647,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [LLM（大语言模型）部署加速方法——Faster Transformer篇](../README.md)
+### [LLM（大语言模型）部署加速方法——Faster Transformer篇]
 
 - 一、为什么需要 FasterTransformer？
 - 二、FasterTransformer 介绍一下？
@@ -1656,7 +1656,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [纯Python超轻量高性能LLM推理框架 —— LightLLM](../README.md)
+### [纯Python超轻量高性能LLM推理框架 —— LightLLM]
 
 - 一、引言
   - 1.1 前言
@@ -1679,7 +1679,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [LLM推理技术之StreamingLLM：如何拥有无限长生成能力](../README.md)
+### [LLM推理技术之StreamingLLM：如何拥有无限长生成能力]
 
 - 一、前言
   - 1.1 大型语言模型（LLM）存在什么问题？
@@ -1691,7 +1691,7 @@
 
 - [点击查看答案](../17_LLMs_optimize_trick/)
 
-### [SwiftInfer —— 大模型无限流式输入推理飙升46%，打破多轮对话长度限制](../README.md) 
+### [SwiftInfer —— 大模型无限流式输入推理飙升46%，打破多轮对话长度限制] 
 
 - StreamingLLM 篇
   - 一、为什么需要 StreamingLLM？
@@ -1709,7 +1709,7 @@
 
 ## 十八、大模型幻觉（LLM Hallucination）面 
 
-### [大模型幻觉（LLM Hallucination）面](../README.md)
+### [大模型幻觉（LLM Hallucination）面]
 
 - 一、什么是大模型幻觉？
 - 二、为什么LLM会产生幻觉？
@@ -1725,7 +1725,7 @@
 
 - [点击查看答案](../18_LLMs_hallucination/readme.md)
 
-### [大模型的幻觉问题篇](../README.md)
+### [大模型的幻觉问题篇]
 
 - 一、什么是 大模型幻觉问题？
 - 二、为什么 会 出现 大模型幻觉问题？
@@ -1734,7 +1734,7 @@
 
 - [点击查看答案](../18_LLMs_hallucination/readme.md)
 
-### [如何缓解大模型幻觉？](../README.md)
+### [如何缓解大模型幻觉？]
 
 - 一、为什么 会 出现 大模型幻觉？
 - 二、如何 缓解 大模型幻觉？
@@ -1744,7 +1744,7 @@
 
 ## 十九、LLMs 对比篇 :fire: 
 
-### [从 DeepSeek-V3 到 Kimi K2：八种现代大语言模型架构设计](../README.md):fire: 
+### [从 DeepSeek-V3 到 Kimi K2：八种现代大语言模型架构设计]:fire: 
 
 - 从 DeepSeek-V3 到 Kimi K2：八种现代大语言模型架构设计
   - 一、前言
@@ -1797,7 +1797,7 @@
 
 - [点击查看答案](../19_LLMs_model_compare/readme.md)
 
-### [LLMs 对比篇](../README.md)
+### [LLMs 对比篇]
 
 - LLMs 对比篇
   - 一、谈谈你对当前出现的各种大模型的见解？
@@ -1850,7 +1850,7 @@
 
 - [点击查看答案](../19_LLMs_model_compare/readme.md)
 
-### [LLMs 对比篇](../README.md)
+### [LLMs 对比篇]
 
 - 大模型-attention mask 篇
   - 1、prefix-tuning的prefix tokens是双向注意力吗？
@@ -1859,7 +1859,7 @@
 
 - [点击查看答案](../19_LLMs_model_compare/readme.md)
 
-### [百川智能baichuan7B、13B、53B、baichuan2 总结篇](../README.md)
+### [百川智能baichuan7B、13B、53B、baichuan2 总结篇]
 
 - 一、baichuan-7B篇
   - 1. 你了解baichuan-7B解构么？介绍一下？
@@ -1880,13 +1880,13 @@
 
 - [点击查看答案](../19_LLMs_model_compare/readme.md)
 
-### [LLaMa 篇](../README.md) 
+### [LLaMa 篇] 
 
 - 一、相比较于llama而言，llama2有哪些改进，对于llama2是应该如何finetune？
 
 - [点击查看答案](../19_LLMs_model_compare/readme.md)
 
-### [GPT 经验篇](../README.md) 
+### [GPT 经验篇] 
 
 - 一、gpt源码past\_key\_value是干啥的？
 - 二、gpt onebyone 每一层怎么输入输出？
@@ -1901,7 +1901,7 @@
 
 ## 二十、思维链 Chain-of-Thought（COT）篇 
 
-### [思维链 Chain-of-Thought（COT）篇](../README.md)
+### [思维链 Chain-of-Thought（COT）篇]
 
 - 一、什么是思维链提示？
 - 二、思维链提示本质是什么？
@@ -1920,7 +1920,7 @@
 
 - [点击查看答案](../20_COT_trick/readme.md)
 
-### [思维链 Chain-of-Thought（COT）变体篇](../README.md)
+### [思维链 Chain-of-Thought（COT）变体篇]
 
 - 思维链 Chain-of-Thought（COT）：思维链的启蒙
   - 1. 什么是 思维链 Chain-of-Thought（COT）？
@@ -1943,7 +1943,7 @@
 
 - [点击查看答案](../20_COT_trick/readme.md)
 
-### [小样本提示学习篇](../README.md) 
+### [小样本提示学习篇] 
 
 - 一、什么是Zero-shot提示方法？
 - 二、什么是Few-shot提示方法？
@@ -1956,7 +1956,7 @@
 - [点击查看答案](../20_COT_trick/readme.md)
 
 
-## [二十一、LLMs 测试集 中 数据泄露 问题篇](../README.md)
+## [二十一、LLMs 测试集 中 数据泄露 问题篇]
 
 - 一、什么是 LLMs 测试集数据泄露 问题？
 - 二、如何解决 LLMs 测试集数据泄露 问题？
@@ -1969,9 +1969,9 @@
 - [点击查看答案](../21_LLMs_data_breach/readme.md)
 
 
-## [二十二、MOE（Mixture-of-Experts）篇](../README.md) :fire:
+## [二十二、MOE（Mixture-of-Experts）篇] :fire:
 
-### 22.1 [MOE（Mixture-of-Experts）篇](../README.md)
+### 22.1 [MOE（Mixture-of-Experts）篇]
 
 - 一、为什么需要 MOE（Mixture-of-Experts）？
 - 二、MOE（Mixture-of-Experts）的思路是什么样的？
@@ -1998,14 +1998,14 @@
 
 - [点击查看答案](../22_LLMs_MOE/readme.md)
 
-### 22.2 [MOE大模型对比篇](../README.md)
+### 22.2 [MOE大模型对比篇]
 
 - DeepSpeed-MoE
 - PAI-Megatron-Patch MoE
   
 - [点击查看答案](../22_LLMs_MOE/readme.md)
 
-### 22.3 [MoE 大模型负载均衡策略演进的回顾](../README.md)
+### 22.3 [MoE 大模型负载均衡策略演进的回顾]
 
 - MoE 大模型负载均衡策略演进的回顾
   - 前言
@@ -2062,7 +2062,7 @@
 
 ## 二十三、大模型蒸馏篇 :fire:
 
-### [大模型知识蒸馏技术方法（DeepSeek， Llama 4 \& Gemma 3中使用的技术）](../README.md)
+### [大模型知识蒸馏技术方法（DeepSeek， Llama 4 \& Gemma 3中使用的技术）]
 
 - 一、前言
 - 二、大模型知识蒸馏技术方法有哪些方法?
@@ -2077,7 +2077,7 @@
   - 5.3 协同蒸馏（Co-distillation）
     - 5.3.1 协同蒸馏（Co-distillation）思路
 
-### [大模型蒸馏篇](../README.md)
+### [大模型蒸馏篇]
 
 - 一、知识蒸馏和无监督样本训练？
 - 二、对知识蒸馏知道多少，有哪些改进用到了？
@@ -2088,7 +2088,7 @@
 
 - [点击查看答案](../23_LLM_distillation/readme.md)
 
-### [LLMs 浮点数篇](../README.md) 
+### [LLMs 浮点数篇] 
 
 - 一、fp32和fp16的区别，混合精度的原理
 - 二、半精度是什么？
@@ -2096,7 +2096,7 @@
 
 - [点击查看答案](../23_LLM_distillation/readme.md)
 
-### [自定义 CUDA 函数的轻量级包装器 —— bitsandbytes篇](../README.md) 
+### [自定义 CUDA 函数的轻量级包装器 —— bitsandbytes篇] 
 
 - 一、什么是 bitsandbytes?
 - 二、如何才能使用 bitsandbytes？
@@ -2105,14 +2105,14 @@
 - [点击查看答案](../23_LLM_distillation/readme.md)
 
 
-## [二十四、大模型（LLMs）软硬件配置面](../README.md)
+## [二十四、大模型（LLMs）软硬件配置面]
 
 1. 建议的软件环境是什么？
 
 - [点击查看答案](../24_LLMs_configure_trick/readme.md)
 
 
-## [二十五、Token及模型参数准备篇](../README.md)
+## [二十五、Token及模型参数准备篇]
 
 1. 预训练数据 Token 重复 是否影响 模型性能？
 2. SFT需要训练Token数？
@@ -2122,7 +2122,7 @@
 
 ## 二十六、多模态常见面试篇
 
-### [多模态常见面试篇](../README.md)
+### [多模态常见面试篇]
 
 - 一、最近关注的论文，多模态视觉大模型(CLIP,DALLE)？
 - 二、blip2的架构，优势和之前多模态模型的区别？
@@ -2135,14 +2135,14 @@
 
 ## 二十七、NLP常见面试篇
 
-### [NLP Trick 篇](../README.md) 
+### [NLP Trick 篇] 
 
 - 一、怎么处理类别不平衡？
 - 二、有了解其他模型去尝试解决长度限制的方案吗？
 
 - [点击查看答案](../27_NLP_trick/readme.md)
 
-### [文本分类常见面试篇](../README.md) 
+### [文本分类常见面试篇] 
 
 - 一、文本分类任务有哪些应用场景？
 - 二、文本分类的具体流程？
@@ -2153,7 +2153,7 @@
 
 - [点击查看答案](../27_NLP_trick/readme.md)
 
-### [文本摘要常见面试篇](../README.md) 
+### [文本摘要常见面试篇] 
 
 - 一、抽取式摘要和生成式摘要存在哪些问题？
 - 二、Pointer-generator network解决了什么问题？
@@ -2163,7 +2163,7 @@
 
 - [点击查看答案](../27_NLP_trick/readme.md)
 
-### [命名实体识别常见面试篇](../README.md) 
+### [命名实体识别常见面试篇] 
 
 - 一、CRF 常见面试题
   - 1.1 什么是CRF？CRF的主要思想是什么？
@@ -2182,7 +2182,7 @@
 
 - [点击查看答案](../27_NLP_trick/readme.md)
 
-### [向量检索常见面试篇](../README.md) 
+### [向量检索常见面试篇] 
 
 - 一、向量检索库总结
   - 1.1 Annoy
@@ -2203,7 +2203,7 @@
 
 ## 二十八、其他常见面试篇
 
-### [LLMs 其他 Trick](../README.md)
+### [LLMs 其他 Trick]
 
 1. huggingface 下载不了模型问题？
 
@@ -2212,7 +2212,7 @@
 
 ## 二十九、大模型推理加速——KV Cache篇 :fire:
 
-- [从头开始了解 LLM 中的 KV 缓存并对其进行编码](../README.md)
+- [从头开始了解 LLM 中的 KV 缓存并对其进行编码]
   - 引言
   - 一、什么是 KV 缓存？
   - 二、LLM 如何生成文本（有无 KV 缓存）
@@ -2235,7 +2235,7 @@
 
 - [点击查看答案](../29_KV_Cache/)
 
-- [大模型推理加速——KV Cache篇](../README.md)
+- [大模型推理加速——KV Cache篇]
   - 一、介绍一下 KV Cache是啥？
   - 二、为什么要进行 KV Cache？
     - 2.1 不使用 KV Cache 场景
@@ -2251,7 +2251,7 @@
 
 - [点击查看答案](../29_KV_Cache/)
 
-- [KV-Cache 面试参考题篇](../README.md)
+- [KV-Cache 面试参考题篇]
   - 一、为什么文本生成如此缓慢?
   - 二、如何解决文本生成缓慢问题？
   - 三、什么是键值缓存？
@@ -2276,7 +2276,7 @@
 
 - [点击查看答案](../29_KV_Cache/)
 
-- [从多头共享到潜变量：MLA在低秩投影与按需解压中重新定义 KV-Cache 存储](../README.md)
+- [从多头共享到潜变量：MLA在低秩投影与按需解压中重新定义 KV-Cache 存储]
   - 前言
   - 一、为什么要减少 KV-Cache？
     - 1.1 长序列推理中显存的“隐形杀手”
@@ -2316,7 +2316,7 @@
 
 ## 三十、大模型——角色扮演大模型篇
 
-### [大模型——角色扮演大模型篇](../README.md)
+### [大模型——角色扮演大模型篇]
 
 - 大模型——角色扮演大模型篇
   - 一、什么是角色扮演大模型？
@@ -2378,7 +2378,7 @@
 
 - [点击查看答案](https://github.com/km1994/AIGC-Interview-Book/tree/main/31_chat_o1)
 
-### [OpenAI o1 面试篇](../README.md)
+### [OpenAI o1 面试篇]
 
 - OpenAI o1 面试篇
   - Q: o1 的训练方法与之前的模型有何主要区别？
@@ -2405,7 +2405,7 @@
 
 - [点击查看答案](../31_chat_o1/readme.md)
 
-### [Scaling LLM Test-Time：谁说类o1推理一定要用RL?](../README.md)
+### [Scaling LLM Test-Time：谁说类o1推理一定要用RL?]
 
 - Scaling LLM Test-Time：谁说类o1推理一定要用RL?
   - 一、Scaling LLM Test-Time 介绍篇
@@ -2454,7 +2454,7 @@
 
 - [GRPO（Group Relative Policy Optimization）篇](https://github.com/km1994/AIGC-Interview-Book/blob/main/32_deepseek/GRPO.md)  :fire:
 - [DeepSeek-R1-Zero 篇](https://github.com/km1994/AIGC-Interview-Book/blob/main/32_deepseek/dp-r1-zero.md)  :fire:
-- [DeepSeek-R1 百问百搭-DeepSeek-R1篇](../README.md) :fire:
+- [DeepSeek-R1 百问百搭-DeepSeek-R1篇] :fire:
 - [千面郎君 篇（三十二章）—— DeepSeek-R1 论文解读](https://github.com/km1994/AIGC-Interview-Book/blob/main/32_deepseek/paper.md)  :fire:
 - [DeepSeek-R1 篇——如何通过强化学习实现复杂推理](https://github.com/km1994/AIGC-Interview-Book/blob/main/32_deepseek/dp-r1.md)
 
@@ -2480,7 +2480,7 @@
 
 ## 三十四、大模型——Kimi1.5 篇 :fire:
 
-- [kimi1.5 论文研读](../README.md) 
+- [kimi1.5 论文研读] 
 
 
 ## [三十五、大模型—— MCP 百问百搭 篇](https://github.com/km1994/AIGC-Interview-Book/tree/main/34_mcp) :fire:
@@ -2544,7 +2544,7 @@
 
 ## 三十七、大模型—— Qwen3 篇 :fire:
 
-### [Qwen3-RL训练过程详解](../README.md)
+### [Qwen3-RL训练过程详解]
 
 - 一、引言
 - 阶段一：冷启动训练
